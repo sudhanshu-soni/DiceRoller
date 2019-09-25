@@ -1,2 +1,2 @@
 # 01DiceRoller Andriod App
-On clicking ROLL Button, Dices gives different number
+On the click of button "Roll" dice will give random numbers from 1 to 6.
